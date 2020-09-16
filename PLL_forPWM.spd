@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="PLL_forPWM_sim/PLL_forPWM.vo" type="VERILOG" />
+ <topLevel name="PLL_forPWM" />
+ <deviceFamily name="cyclonev" />
+</simPackage>
